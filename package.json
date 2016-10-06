@@ -1,0 +1,24 @@
+{
+  "name": "Spotify",
+  "description": "A simple view layer that displays 20 first search results for artists and albums from Spotify",
+  "author": {
+    "name": "Nishant",
+    "url": "https://github.com/ncrafts"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.7.6",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.5.0",
+    "babel-runtime": "^6.6.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-rename": "^1.2.2",
+    "isomorphic-fetch": "^2.2.1",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "webpack-stream": "^3.2.0"
+  },
+  "dependencies": {}
+}
